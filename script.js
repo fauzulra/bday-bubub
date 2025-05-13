@@ -151,7 +151,7 @@ new TypeIt("#teks2", {
             " ", 
             "Love u so much bub.",  
             "Silahkan Ditonton videonyaaaa:) semogaa sukaa yaa!!! "],
-  startDelay: 2000,
+  startDelay: 3000,
   speed: 50,
   waitUntilVisible: true,
   html: true,
